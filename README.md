@@ -13,7 +13,7 @@
    Braille is universal and available in every language in the world, including Esperanto. It is currently used by six million blind people around the world.
 
 5. Circuit Scheme:
-  Arduino                SD Card Module
+  Arduino       to         SD Card Module
   --------               ---------------
   5V ------------------- VCC
   GND ------------------ GND
