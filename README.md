@@ -10,8 +10,7 @@
    Programmed Arduino microcontroller to interpret English alphabet into Braille script, driving six servo motors to emulate Braille dot patterns. The entire system was integrated into a PCB board, transforming the concept into a practical working model for usability testing and refinement.
    
 4. Circuit Scheme:
-  Arduino       to         SD Card Module
-  --------               ---------------
+  Arduino                SD Card Module
   5V ------------------- VCC
   GND ------------------ GND
   4 --------------------- CS
